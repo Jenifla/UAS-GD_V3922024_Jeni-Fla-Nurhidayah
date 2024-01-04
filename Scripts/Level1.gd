@@ -12,4 +12,4 @@ func _on_lv_1_pressed():
 	get_tree().change_scene_to_file("res://Scenes/Loading.tscn")
 
 func _on_next_pressed():
-	get_tree().change_scene_to_file("res://Scenes/Level2.tscn")
+	get_tree().change_scene_to_file("res://Scenes/Level_2.tscn")
